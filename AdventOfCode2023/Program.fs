@@ -3,6 +3,5 @@
 
 open AdventOfCode2023.Days
 
-let result = Day01.runDaily
-printfn $"{result}"
+Day01.Part02.runPart02 |> ignore
 
