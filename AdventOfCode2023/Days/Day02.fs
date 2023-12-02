@@ -280,7 +280,7 @@ module Part02 =
     printfn $"{total} should be 2286"
   
   let run () =
-    printfn "Day 02 - Part 01"
+    printfn "Day 02 - Part 02"
     let content =
       File.ReadAllLines "./Days/Day02.txt"
       |> Array.toList
