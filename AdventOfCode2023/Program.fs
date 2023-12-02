@@ -3,5 +3,5 @@
 
 open AdventOfCode2023.Days
 
-Day01.Part02.runPart02 |> ignore
+Day02.Part02.run()
 
